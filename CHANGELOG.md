@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.3](https://www.github.com/rramo012/testing-123/compare/v1.0.2...v1.0.3) (2021-04-29)
+
+
+### Bug Fixes
+
+* hdhsd ([1cff366](https://www.github.com/rramo012/testing-123/commit/1cff366250cce434f61b8430ccd82cb0064285cc))
+
 ### [1.0.2](https://www.github.com/rramo012/testing-123/compare/v1.0.1...v1.0.2) (2021-04-29)
 
 
