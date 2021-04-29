@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.2](https://www.github.com/rramo012/testing-123/compare/v1.0.1...v1.0.2) (2021-04-29)
+
+
+### Bug Fixes
+
+* testing ([4ab41a9](https://www.github.com/rramo012/testing-123/commit/4ab41a94ef5206da922382faf0cb984026213fff))
+
 ### [1.0.1](https://www.github.com/rramo012/testing-123/compare/v1.0.0...v1.0.1) (2021-04-29)
 
 
